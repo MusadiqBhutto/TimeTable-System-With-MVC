@@ -1,0 +1,2 @@
+# TimeTableSystemWithMVC
+Time Table System is a Java GUI Project for which AWT & Swing is used for Front-End & MySQL Database is used for Back-End. The architecture used for this university level class time table system is MVC. It has four sections: department, teachers that teach in that departments, subjects that are being taught in that departments & finally the timetable of department. Every section has all the four CRUD operations. So, we can easily create, retrieve, update and delete any entity.
